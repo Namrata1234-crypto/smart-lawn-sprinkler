@@ -60,6 +60,27 @@ The following issues are considered for testing:
 - Improved sensor fault detection.
 - Water consumption monitoring.
 
+
+
+---
+
+## Project Documentation
+
+Detailed project documents are available below:
+
+- [Quality Assurance Log](docs/QA_LOG.md)
+- [Hardware Connections](docs/HARDWARE_CONNECTIONS.md)
+
+## GitHub Project Management
+
+GitHub Issues are used to track identified problems, while GitHub Projects is used to monitor their progress.
+
+## Student Details
+
+**Name:** Namrata Santosh Babar
+
+**PRN:** 202301070101
+
 ## 9. Safety and Testing
 Sensor thresholds and relay logic must be verified with the actual hardware before connecting the pump. The current starter firmware does not yet implement scheduled watering or Blynk integration.
 
